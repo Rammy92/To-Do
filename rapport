@@ -1,0 +1,46 @@
+Vilken editor ni använder er utav?
+Jag använder Visual Studio Code.
+
+Varför använder ni er utav den?
+Den är enkel att installera.
+Enkel att använda, lätt att köra coden, massa extensions som hjälper till.
+Smidig Koppling till Github.
+
+Om ni inte fick använda nuvarande editor, vilken hade du valt?
+Intellij
+Den använde jag när vi programmerade i Java. I princip märkte jag inte skillnad mellan vs code och Intellij. 
+Den är också lätt att använda och har extensions som gör det lättare att skriva koden.
+
+Vad är Linux?
+Det är ett operativsystem som består av kärnan Linux. 
+Operativsystemet innehåller olika fundamentala gratis program som behövs så den kan kommunicera och att ta emot instruktioner från användaren. 
+Den är gratis och källkoden är tillgänglig för alla.
+
+Vad finns det för användningsområden inom Linux?
+Vi kan ändra i källkoden.
+Vi kan köra och testa våra program.
+De flesta använder Linux i sina servrar.
+Linux är gratis och tar inte mycket plats i minne.
+
+Beskriv de olika tjänster ni känner till som finns i Linux
+Kudzu upptäcker hårdvara som är ni eller modifierad
+httpd tillhandahåller en Apache-webbserver 
+smtp skickar och tar emot e-post
+cron som används för att utföra schemalagda uppgifter
+gpm som stöder musfunktionalitet
+
+Beskriv hur ni använt er av Linux i denna applikation
+Jag kommer kunna skapa file på linux
+
+Kort om varför ni valde att bygga den typen av app
+Det är en intressant app där jag fick lära mig mer att jobba med filer.
+Spel har jag gjort när vi läste java. File manager var också intressant men jag tycker att jag inte har tillräckligt med kunskaper att skapa en sådan app.
+
+
+
+
+
+
+
+
+
